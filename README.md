@@ -1,6 +1,6 @@
 
 
-(Live Demo)[https://gh-user-finder.netlify.app/]
+[Live Demo](https://gh-user-finder.netlify.app/)
 
 
 # Getting Started with Create React App
